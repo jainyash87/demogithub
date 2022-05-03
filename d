@@ -1,4 +1,4 @@
 echo "my name is yash"
-ls -ltr
+ -ltr
 netstat -tnulp
 mkdir yash
