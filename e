@@ -9,3 +9,5 @@ i mn  on branch e-after master
 i m on branch e
 i m on branch e-after master
 >>>>>>> e
+good to go
+i m coming
