@@ -1,5 +1,6 @@
-this is merge on local 123
-
+=====
+this is merge on repo
+>>>>>>> 810755b56f92131148da28efc04cff4db7f18046
 ls-lrt
 date
 cal
